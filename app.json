@@ -1,0 +1,39 @@
+{
+  "id": "aa99e473-90a0-4db3-8c70-974d982da0ac",
+  "name": "DBTR_D365BC-JPPOL",
+  "publisher": "Victor Corell - JPPOL",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "14340ba6-5934-4145-8e14-dbf1846fef80",
+      "name": "Continia Payment Management",
+      "publisher": "Continia Software",
+      "version": "26.3.1.313645"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 62000,
+      "to": 62999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
