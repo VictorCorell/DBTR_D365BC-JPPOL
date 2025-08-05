@@ -6,6 +6,8 @@ codeunit 62000 CustomerTemplateCopyExt
     local procedure OnAfterCreateCustomerFromTemplate(var Customer: Record Customer; CustomerTempl: Record "Customer Templ.")
     begin
         Customer."CPM Bal. Account No." := CustomerTempl.CPMBalAccountNo;
+        Customer."CPM Notification Definition" := CustomerTempl.CPMNotificationDefinition;
         Customer.Modify();
     end;
+
 }
