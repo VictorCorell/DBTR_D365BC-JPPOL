@@ -2,7 +2,7 @@
 Perks and Tweaks for Debtor in Dynamics 365 Business Central.
 
 ## Changelog and News
-The newest version is 1.0.0.0
+The newest version is 1.0.0.1
 
 #### Version contruction
 - 0.X.X.X - Production year
