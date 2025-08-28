@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.0.2] - 28-08-2025
+### Added
+- Custom description on the customer ledger and general ledger entries.
+
 ## [1.0.0.1] - 09-08-2025
 ### Added
 - 'Document Attachment' made available on the 'Customer Bank Account Card'.
