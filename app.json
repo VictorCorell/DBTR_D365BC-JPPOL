@@ -2,13 +2,10 @@
   "id": "aa99e473-90a0-4db3-8c70-974d982da0ac",
   "name": "DBTR_D365BC-JPPOL",
   "publisher": "Victor Corell - JPPOL",
-  "version": "1.0.0.0",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "https://github.com/VictorCorell/DBTR_D365BC-JPPOL",
-  "url": "https://github.com/VictorCorell/DBTR_D365BC-JPPOL",
+  "version": "1.0.0.3",
+  "runtime": "15.0",
+  "brief": "Debtor extension",
+  "description": "Perks and Tweaks for Debtor in Dynamics 365 Business Central",
   "logo": "",
   "dependencies": [
     {
@@ -32,8 +29,10 @@
     "allowDownloadingSource": true,
     "includeSourceInSymbolFile": true
   },
-  "runtime": "15.0",
   "features": [
     "NoImplicitWith"
-  ]
+  ],
+  "build": {
+    "url": "https://github.com/VictorCorell/DBTR_D365BC-JPPOL"
+  }
 }
